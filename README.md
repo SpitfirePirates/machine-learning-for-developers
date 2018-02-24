@@ -4,6 +4,8 @@ This is a guide for learning machine learning aimed at developers that don't hav
 
 The guide follows closely the example files in the `/examples` directory, so please follow along.
 
+The examples are written in javascript. You will need to change to the `/examples` directory, and install the dependencies using `npm` or `yarn`, and run the examples using `node`.
+
 ## Linear Regression Algorithm
 
 A linear regression algorithm tries to work out the relationship between input and output numerical variables.
